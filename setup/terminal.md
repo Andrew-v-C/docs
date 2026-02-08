@@ -6,11 +6,11 @@
 - Set up shell
   - Windows:
     - Install PowerShell (not the pre-installed Windows PowerShell)
-    - Clone PowerShell repo into Documents
+    - Clone [PowerShell repo](https://github.com/Andrew-v-C/PowerShell) into Documents
   - Linux:
-    - Clone bash repo into `~/.config`
+    - Clone [bash repo](https://github.com/Andrew-v-C/bash) into `~/.config`
     - From home directory, run:
       - `rm .bashrc`
       - `ln -s .config/bash/.bashrc .bashrc`
 - Install Alacritty
-- Clone alacritty repo into `$env:appdata` on Windows / `~/.config` on Linux
+- Clone [alacritty repo](https://github.com/Andrew-v-C/alacritty) into `$env:appdata` on Windows / `~/.config` on Linux

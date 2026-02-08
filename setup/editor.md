@@ -3,7 +3,7 @@
 - Ensure [terminal](https://github.com/Andrew-v-C/docs/blob/main/setup/terminal.md) is set up
 - Download Neovim from [releases](https://github.com/neovim/neovim/releases)
 - Place in `Neovim` folder in Software
-- Clone nvim repo into `$env:localappdata` on Windows / `~/.config` on Linux
+- Clone [nvim repo](https://github.com/Andrew-v-C/nvim) into `$env:localappdata` on Windows / `~/.config` on Linux
 
 
 ## Required languages
