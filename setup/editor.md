@@ -42,8 +42,8 @@
 
 ### Python
 - Pyright: `(sudo) npm install -g pyright`
-- Black: `pipx install black`
-- Ruff (alternative to Black): `pipx install ruff`
+- ~~Black: `pipx install black`~~
+- Ruff (replacement for Black): `pipx install ruff`
 
 ### C/C++
 - CMake
