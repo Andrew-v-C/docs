@@ -5,10 +5,11 @@
     - Install PowerShell (not the pre-installed Windows PowerShell)
     - Clone [PowerShell repo](https://github.com/Andrew-v-C/PowerShell) into Documents
   - Linux:
-    - Clone [bash repo](https://github.com/Andrew-v-C/bash) into `~/.config`
+    - Clone [shell repo](https://github.com/Andrew-v-C/shell) into `~/.config`
     - From home directory, run:
-      - `rm .bashrc`
-      - `ln -s .config/bash/.bashrc .bashrc`
+      - `rm .profile .bashrc`
+      - `ln -s .config/shell/.profile .profile`
+      - `ln -s .config/shell/.bashrc .bashrc`
 - *If using a headless Linux setup (e.g. Raspberry Pi), skip the following steps*
 - Install a [Nerd Font](https://www.nerdfonts.com/font-downloads) (JetBrainsMono)
   - Windows: select all &rarr; right click &rarr; Install
