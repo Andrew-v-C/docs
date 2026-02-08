@@ -13,9 +13,7 @@
   - Linux: pre-installed
 
 
-## Required package managers
-- Native package manager (e.g. winget, apt); should be pre-installed
-  - Unless otherwise specified, use this to install
+## Required third-party package managers
 - npm
   - Windows: `winget install OpenJS.NodeJS`
   - Linux: `sudo apt install npm`
