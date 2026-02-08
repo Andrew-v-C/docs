@@ -42,7 +42,7 @@
 
 ### Python
 - Pyright: `(sudo) npm install -g pyright`
-- ~~Black: `pipx install black`~~
+- ~~Black:~~ `pipx install black`
 - Ruff (replacement for Black): `pipx install ruff`
 
 ### C/C++
