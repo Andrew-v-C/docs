@@ -35,7 +35,6 @@
   - Linux:
     - Download [latest release](https://github.com/LuaLS/lua-language-server/releases/latest)
     - Place in `lua-language-server` folder in Software
-    - Add to PATH (in .profile): `export PATH=$PATH:~/.Software/lua-language-server/bin`
 
 ### Python
 - Pyright: `(sudo) npm install -g pyright`
