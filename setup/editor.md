@@ -1,6 +1,6 @@
 # Editor setup (Neovim and tools)
 
-- Ensure [terminal/shell](https://github.com/Andrew-v-C/docs/blob/main/Alacritty.md) is set up
+- Ensure [terminal](https://github.com/Andrew-v-C/docs/blob/main/setup/terminal.md) is set up
 - Download Neovim from [releases](https://github.com/neovim/neovim/releases)
 - Place in `Neovim` folder in Software
 - Clone nvim repo into `$env:localappdata` on Windows / `~/.config` on Linux
@@ -63,7 +63,7 @@
 - Arduino CLI
   - Windows: `winget install ArduinoSA.CLI`
   - Linux: install .deb from [latest release](https://github.com/arduino/arduino-cli/releases/latest)
-- Create config file: `arduino-cli config init`
+- Create config file: `ar config init`
 - arduino-language-server
   - Download executable from [latest release](https://github.com/arduino/arduino-language-server/releases/latest)
   - Place in `~/.local/bin`
