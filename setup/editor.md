@@ -1,8 +1,9 @@
-# Neovim setup
+# Editor setup (Neovim and tools)
 
-- First ensure [terminal/shell](https://github.com/Andrew-v-C/docs/blob/main/Alacritty.md) is set up
+- Ensure [terminal/shell](https://github.com/Andrew-v-C/docs/blob/main/Alacritty.md) is set up
 - Download Neovim from [releases](https://github.com/neovim/neovim/releases)
 - Place in `Neovim` folder in Software
+- Clone nvim repo into `$env:localappdata` on Windows / `~/.config` on Linux
 
 
 ## Required languages
