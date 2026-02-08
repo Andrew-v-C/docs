@@ -57,7 +57,7 @@
 - Arduino CLI
   - Windows: `winget install ArduinoSA.CLI`
   - Linux: install .deb from [latest release](https://github.com/arduino/arduino-cli/releases/latest)
-- Create config file: `ar config init`
+- Create config file: `arduino-cli config init`
 - arduino-language-server
   - Download executable from [latest release](https://github.com/arduino/arduino-language-server/releases/latest)
   - Place in `~/.local/bin`
