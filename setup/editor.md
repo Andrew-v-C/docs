@@ -71,4 +71,3 @@
 - Download from [releases](https://github.com/neovim/neovim/releases)
 - Place in `Neovim` folder in Software
 - Clone [nvim repo](https://github.com/Andrew-v-C/nvim) into `$env:localappdata` on Windows / `~/.config` on Linux
-
