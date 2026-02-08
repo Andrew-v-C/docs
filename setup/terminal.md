@@ -12,5 +12,6 @@
     - From home directory, run:
       - `rm .bashrc`
       - `ln -s .config/bash/.bashrc .bashrc`
+- *If using a headless Linux setup (e.g. Raspberry Pi), skip the following steps*
 - Install Alacritty
 - Clone [alacritty repo](https://github.com/Andrew-v-C/alacritty) into `$env:appdata` on Windows / `~/.config` on Linux
