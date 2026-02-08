@@ -1,9 +1,6 @@
 # Editor setup (Neovim and tools)
 
 - Ensure [terminal](https://github.com/Andrew-v-C/docs/blob/main/setup/terminal.md) is set up
-- Download Neovim from [releases](https://github.com/neovim/neovim/releases)
-- Place in `Neovim` folder in Software
-- Clone [nvim repo](https://github.com/Andrew-v-C/nvim) into `$env:localappdata` on Windows / `~/.config` on Linux
 
 
 ## Required languages
@@ -68,4 +65,10 @@
 - Create a file named `sketch.yaml` with the following lines:
   - `default_fqbn: <FQBN>`
   - `default_port: <Port>`
+
+
+  ## Install Neovim
+- Download from [releases](https://github.com/neovim/neovim/releases)
+- Place in `Neovim` folder in Software
+- Clone [nvim repo](https://github.com/Andrew-v-C/nvim) into `$env:localappdata` on Windows / `~/.config` on Linux
 
