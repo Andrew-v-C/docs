@@ -1,6 +1,6 @@
 # General setup for all computers
 
-- On Linux: update packages
+- On Linux: update/upgrade packages first
 - Install Google Chrome (for easy referencing of setup docs)
   - *Skip this if using a headless setup*
   - Windows: use winget
