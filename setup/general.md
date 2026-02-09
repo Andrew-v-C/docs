@@ -1,5 +1,6 @@
 # General setup for all computers
 
+- On Linux: update packages
 - Install Google Chrome (for easy referencing of setup docs)
   - *Skip this if using a headless setup*
   - Windows: use winget
@@ -9,7 +10,6 @@
   - Software folder (named `Software` on Windows / `.Software` on Linux)
   - `.local/bin`
     - On Windows: add folder to Path environment variable
-- On Linux: update packages
 - Set up Git
   - Install Git
   - Create `.gitconfig` file in home folder with the following lines:
