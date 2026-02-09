@@ -64,6 +64,11 @@
 - Create a file named `sketch.yaml` with the following lines:
   - `default_fqbn: <FQBN>`
   - `default_port: <Port>`
+#### Other considerations
+- On Linux: likely need to modify user groups in order to access ports
+  - Run `sudo usermod -aG dialout $USER`
+  - Log out / in for change to take effect
+  - Type `groups`; confirm `dialout` is there
 
 
 ## Install Neovim
