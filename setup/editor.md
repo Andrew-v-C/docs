@@ -34,7 +34,7 @@
   - Windows: `winget install LuaLS.lua-language-server`
   - Linux:
     - Download [latest release](https://github.com/LuaLS/lua-language-server/releases/latest)
-    - Place in `lua-language-server` folder in Software
+    - Place in `lua-language-server` folder in `.Software`
 
 ### Python
 - Pyright: `(sudo) npm install -g pyright`
@@ -75,5 +75,5 @@
 
 ## Install Neovim
 - Download from [releases](https://github.com/neovim/neovim/releases)
-- Place in `Neovim` folder in Software
+- Place in `Neovim` folder in `.Software`
 - Clone [nvim repo](https://github.com/Andrew-v-C/nvim) into `$env:localappdata` on Windows / `~/.config` on Linux

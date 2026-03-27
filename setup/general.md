@@ -7,7 +7,7 @@
   - Linux: install .deb from official website
 - Create folders in home folder
   - `Projects`
-  - Software folder (named `Software` on Windows / `.Software` on Linux)
+  - `.Software`
   - `.local/bin`
     - On Windows: add folder to Path environment variable
 - Set up Git
