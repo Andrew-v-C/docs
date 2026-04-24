@@ -57,7 +57,7 @@
 
 ### Set up terminal shortcut
 - Ensure Alacritty menu shortcut starts in `%USERPROFILE%`
-- Create a .bat file with the following line; save in a Scripts folder in `.Software`
+- Create a .bat file with the following line (save in a Scripts folder in `.Software`)
   ```
   start /d %USERPROFILE% alacritty
   ```
