@@ -61,7 +61,7 @@
   ```
   start /d %USERPROFILE% alacritty
   ```
-- Use PowerToys Keyboard Manager to map `Win + T` to run the script
+- Use Keyboard Manager to map `Win + T` to run the script
 
 
 ## Cleanup
