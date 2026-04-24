@@ -49,7 +49,7 @@
 
 ## Customize keyboard mappings/shortcuts
 - Install PowerToys
-- Using PowerToys Keyboard Manager:
+- Using Keyboard Manager:
   - Remap Caps Lock to Control
   - Remap F24 to Caps Lock
   - Disable Num Lock
@@ -57,8 +57,11 @@
 
 ### Set up terminal shortcut
 - Ensure Alacritty menu shortcut starts in `%USERPROFILE%`
-- Create a .bat file containing `start alacritty`; save in a Scripts folder in `.Software`
-- Use PowerToys Keyboard Manager to map `Win + T` to run the script, starting in `%USERPROFILE%`
+- Create a .bat file with the following line; save in a Scripts folder in `.Software`
+  ```
+  start /d %USERPROFILE% alacritty
+  ```
+- Use PowerToys Keyboard Manager to map `Win + T` to run the script
 
 
 ## Cleanup
