@@ -16,3 +16,4 @@
   - Linux: move folder to `~/.local/share/fonts`
 - Install Alacritty
 - Clone [alacritty repo](https://github.com/Andrew-v-C/alacritty) into `$env:appdata` on Windows / `~/.config` on Linux
+- Set up [editor](https://github.com/Andrew-v-C/docs/blob/main/setup/editor.md)
