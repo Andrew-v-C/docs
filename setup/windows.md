@@ -79,6 +79,7 @@
 - LibreOffice
 - Okular
 - Raspberry Pi Imager
+- TrayStatus
 
 
 ## Optional tweaks
