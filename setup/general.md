@@ -19,4 +19,3 @@
         email = <email>
     ```
 - Set up [terminal](https://github.com/Andrew-v-C/docs/blob/main/setup/terminal.md)
-- Set up [editor](https://github.com/Andrew-v-C/docs/blob/main/setup/editor.md)
