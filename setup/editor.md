@@ -35,7 +35,7 @@
   - Linux:
     - Download [latest release](https://github.com/LuaLS/lua-language-server/releases/latest)
     - Place in `lua-language-server` folder in `.Software`
-  - For reference: configuration options for the formatter can be found [here](https://github.com/CppCXY/EmmyLuaCodeStyle/blob/master/docs/format_config_EN.md)
+  - For reference: formatting options can be found [here](https://github.com/CppCXY/EmmyLuaCodeStyle/blob/master/docs/format_config_EN.md)
 
 ### Python
 - Pyright: `(sudo) npm install -g pyright`
