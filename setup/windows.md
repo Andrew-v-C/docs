@@ -55,13 +55,6 @@
 
 ### Set up terminal shortcut
 - Ensure Alacritty menu shortcut starts in `%USERPROFILE%`
-- Create a .bat file with the following line (save in a Scripts folder in `.Software`)
-  ```
-  start /d %USERPROFILE% alacritty
-  ```
-- Install PowerToys
-- Use Keyboard Manager to map `Win + T` to run the script
-- Turn off all other PowerToys utilities
 
 
 ## Cleanup
