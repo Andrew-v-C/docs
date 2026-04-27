@@ -74,7 +74,7 @@
   - Type `groups`; confirm `dialout` is there
 
 ### Other
-- Taplo: `npm install -g @taplo/cli`
+- Taplo: `(sudo) npm install -g @taplo/cli`
 
 
 ## Install Neovim
