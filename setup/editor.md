@@ -73,6 +73,9 @@
   - Log out / in for change to take effect
   - Type `groups`; confirm `dialout` is there
 
+### Other
+- Taplo: `npm install -g @taplo/cli`
+
 
 ## Install Neovim
 - Download from [releases](https://github.com/neovim/neovim/releases)
