@@ -49,8 +49,7 @@
 
 ## Customize keyboard mappings/shortcuts
 - Install SharpKeys
-- Remap Caps Lock to Control
-- Remap F24 to Caps Lock
+- Remap Caps Lock to (Left) Control
 - Disable Num Lock
 
 ### Set up terminal shortcut
