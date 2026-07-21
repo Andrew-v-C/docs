@@ -48,6 +48,9 @@
   - Ninja build system
   - Conan (via pipx): `sudo pipx install --global conan`
 
+## TOML tools (Taplo)
+- Install via npm: `sudo npm install -g @taplo/cli`
+
 ## Install lua-language-server (for editing Neovim configs)
 - Download tarball from [latest release](https://github.com/LuaLS/lua-language-server/releases/latest)
 - Extract:
@@ -65,9 +68,6 @@
   ```
   - `sudo chmod +x /usr/local/bin/lua-language-server`
 - For reference: formatting options can be found [here](https://github.com/CppCXY/EmmyLuaCodeStyle/blob/master/docs/format_config_EN.md)
-
-## TOML tools (Taplo)
-- Install via npm: `sudo npm install -g @taplo/cli`
 
 ## Install Neovim
 - Download tarball from [latest release](https://github.com/neovim/neovim/releases/latest)
