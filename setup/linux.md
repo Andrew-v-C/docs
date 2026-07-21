@@ -29,7 +29,6 @@
 - curl
 - npm
 - tree-sitter-cli (via npm): `sudo npm install -g tree-sitter-cli`
-- Taplo (via npm): `sudo npm install -g @taplo/cli`
 
 ## Python tools
 - Python should be installed
