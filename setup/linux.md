@@ -50,8 +50,20 @@
 
 ## Install lua-language-server (for editing Neovim configs)
 - Download tarball from [latest release](https://github.com/LuaLS/lua-language-server/releases/latest)
-- Extract to `/opt/lua-language-server`
-- Create wrapper script (`lua-language-server`) in `/usr/local/bin`
+- Extract:
+  - `sudo mkdir /opt/lua-language-server`
+  - `sudo tar -xvzf *.gz -C /opt/lua-language-server`
+- Create wrapper script (`lua-language-server`) in `/usr/local/bin`:
+  ```
+  #!/bin/bash
+  mkdir -p "$HOME/.cache/lua-language-server/log"
+  mkdir -p "$HOME/.cache/lua-language-server/cache"
+  exec /opt/lua-language-server/bin/lua-language-server \
+    --logpath="$HOME/.cache/lua-language-server/log" \
+    --cachepath="$HOME/.cache/lua-language-server/cache" \
+    "$@"
+  ```
+  - `sudo chmod +x /usr/local/bin/lua-language-server`
 - For reference: formatting options can be found [here](https://github.com/CppCXY/EmmyLuaCodeStyle/blob/master/docs/format_config_EN.md)
 
 ## TOML tools (Taplo)
@@ -59,8 +71,16 @@
 
 ## Install Neovim
 - Download tarball from [latest release](https://github.com/neovim/neovim/releases/latest)
-- Extract to `/opt/neovim`
-- Create wrapper script (`nvim`) in `/usr/local/bin`
+- Extract:
+  - `sudo tar -xvzf *.gz -C /opt`
+  - Rename folder in `/opt` to `neovim`
+- Create wrapper script (`nvim`) in `/usr/local/bin`:
+  ```
+  #!/bin/bash
+  /opt/neovim/bin/nvim "$@"
+  echo -ne "\033[5 q"
+  ```
+  - `sudo chmod +x /usr/local/bin/nvim`
 - Clone [nvim repo](https://github.com/Andrew-v-C/nvim) into `~/.config`
 
 ## LaTeX tools (Tectonic)
