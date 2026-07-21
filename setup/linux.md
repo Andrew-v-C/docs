@@ -54,8 +54,8 @@
 - Create wrapper script (`lua-language-server`) in `/usr/local/bin`
 - For reference: formatting options can be found [here](https://github.com/CppCXY/EmmyLuaCodeStyle/blob/master/docs/format_config_EN.md)
 
-## TOML tools
-- Install Taplo (via npm): `sudo npm install -g @taplo/cli`
+## TOML tools (Taplo)
+- Install via npm: `sudo npm install -g @taplo/cli`
 
 ## Install Neovim
 - Download tarball from [latest release](https://github.com/neovim/neovim/releases/latest)
