@@ -14,7 +14,6 @@
   - Documents
   - Downloads
   - Pictures
-  - Projects
 - Options &rarr; General &rarr; uncheck all "show" options
 - View &rarr; Show &rarr; file name extensions and hidden items
 
@@ -47,31 +46,11 @@
 - Keyboard &rarr; Sticky keys &rarr; turn off keyboard shortcut
 
 
-## Customize keyboard mappings/shortcuts
-- Install SharpKeys
-- Remap Caps Lock to (Left) Control
-- Disable Num Lock
-
-### Set up terminal shortcut
-- Ensure Alacritty menu shortcut starts in `%USERPROFILE%`
-
-
 ## Cleanup
 - Uninstall unnecessary apps
 - Delete all desktop shortcuts
 - Unpin all apps from taskbar
 - Keep only useful apps pinned to Start
-
-
-## Useful apps to install
-- Discord
-- Google Drive
-- KiCad
-- LTspice
-- LibreOffice
-- Okular
-- Raspberry Pi Imager
-- TrayStatus
 
 
 ## Optional tweaks
