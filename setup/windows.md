@@ -3,7 +3,8 @@
 - Refer first to [general setup](https://github.com/Andrew-v-C/docs/blob/main/setup/general.md)
 
 
-## In browser
+## Browser
+- Install Google Chrome
 - Sign into accounts
 - Download wallpaper &rarr; right click &rarr; Set as desktop background
 
