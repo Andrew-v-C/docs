@@ -1,6 +1,8 @@
 # New Windows computer setup
 
-- Refer first to [general setup](https://github.com/Andrew-v-C/docs/blob/main/setup/general.md)
+- Turn off OneDrive backup
+- Set up second hard drive, "My Files"
+- Change location of libraries to second drive
 
 
 ## Browser
@@ -36,7 +38,7 @@
 - Themes &rarr; Desktop icon settings &rarr; uncheck all icons
 - Lock screen &rarr; Lock screen status "None"
 - Start &rarr; "More pins"; turn off all "show" options
-- Taskbar &rarr; hide Search; turn off Task view and Widgets
+- Taskbar &rarr; hide Search; turn off Task view and Widgets; small task bar?
 - Multitasking &rarr; turn off Snap windows; don't show tabs when pressing Alt+Tab
 
 ### Time & language
